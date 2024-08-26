@@ -8,12 +8,13 @@
 ## Tuesday, August 27, 2024
 
 - Recap: what we learned about the Web's markup language
-- Work independently on Codilla challenges. Goal: 2 challenges
+- Work independently on Codilla challenges. Goal: finish unordered and ordered
+  list challenges
 
 ## Wednesday, August 28, 2024
 
+- Quiz (first 6 challenges)
 - Recap: marking up for **meaning**; nesting HTML elements
-- Work independently on Codilla challenges. Goal: ordered and unordered lists
 
 ## Thursday, August 29, 2024
 
