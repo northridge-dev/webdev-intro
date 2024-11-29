@@ -2,7 +2,11 @@
 
 ## Monday, November 25, 2024
 
+- Review notes: string concatenation & interpolation
+
 ## Tuesday, November 26, 2024
+
+- Codilla challenges: arrays
 
 ## Wednesday, November 27, 2024 - Friday, November 29, 2024
 
