@@ -21,7 +21,7 @@
 ## Thursday, December 5, 2024
 
 - Quiz: JavaScript arrays
-- Introduce loops
+- Finish array challenges
 
 ## Friday, December 6, 2024
 
