@@ -10,14 +10,13 @@ NO CLASS: Floater 5
 
 ## Wednesday, January 15, 2025
 
-- Code annotation: Working with JavaScript objects
+- Notes: JavaScript objects (continued)
 - JavaScript objects challenges (continued)
 
 ## Thursday, January 16, 2025
 
-- Quiz: JavaScript objects
-- Introducing browser events
+- JavaScript objects challenges (continued)
 
 ## Friday, January 17, 2025
 
-- Browser events (continued)
+- Code annotation: Working with JavaScript objects
