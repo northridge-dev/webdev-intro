@@ -15,8 +15,8 @@ NO CLASS: Martin Luther King Jr. Day
 
 ## Thursday, January 23, 2025
 
-- Introducing browser events
+- JavaScript objects challenges
 
 ## Friday, January 24, 2025
 
-- Browser events (continued)
+- JavaScript objects challenges
