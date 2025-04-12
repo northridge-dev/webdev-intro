@@ -12,6 +12,7 @@
 ## Wednesday, April 9, 2025
 
 - Code challenge: drawing lines on a canvas with two mouse clicks
+  - practicing technical communication -- describe your toughest technical challenge and how you solved it
 
 ## Thursday, April 10, 2025
 
